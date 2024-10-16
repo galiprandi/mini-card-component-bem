@@ -2,6 +2,8 @@
 
 This project contains a Mini Card Component built with HTML, SCSS, and jQuery using BEM methodology. The component is fully responsive, with a breakpoint at 768px, and the button toggles between two colors (#7AB800 and #CC292B) when clicked.
 
+![Screenshot](./assets/screenshot.png)
+
 ## Features
 
 - Responsive design with a breakpoint at 768px.
