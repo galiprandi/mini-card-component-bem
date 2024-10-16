@@ -1,0 +1,19 @@
+{
+  "name": "mini-card-component-bem",
+  "version": "1.0.0",
+  "description": "Mini Card Component using HTML, SCSS, and jQuery with BEM methodology. Responsive with a breakpoint at 768px and a button that toggles colors.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx servor --browse"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galiprandi/mini-card-component-bem.git"
+  },
+  "author": "Germán Aliprandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galiprandi/mini-card-component-bem/issues"
+  },
+  "homepage": "https://github.com/galiprandi/mini-card-component-bem#readme"
+}
